@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jeasy:easy-rules-support:4.1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jeasy/easy-rules-support/4.1.1-SNAPSHOT/easy-rules-support-4.1.1-20201206.215129-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jeasy/easy-rules-support/4.1.1-SNAPSHOT/easy-rules-support-4.1.1-20201206.215129-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jeasy/easy-rules-support/4.1.1-SNAPSHOT/easy-rules-support-4.1.1-20201206.215129-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+name: "bigbasketrule1.1"
+description: "This is regarding the odometer"
+priority: 4
+condition: "p.getOdometer()>12000"
+actions:
+  - "System.out.println(\" your odometer is greater than 12,000\");"
+---
+name: "bigbasketrule1.2"
+description: "This is regarding the odometer"
+priority: 5
+condition: "p.getOdometer()<40000"
+actions:
+  - "System.out.println(\" your odometer is less than 40,000\");"

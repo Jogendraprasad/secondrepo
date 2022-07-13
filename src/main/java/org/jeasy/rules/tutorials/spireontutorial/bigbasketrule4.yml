@@ -1,0 +1,6 @@
+name: "bigbasketrule1.2"
+description: "This is regarding the lowtyrepressure"
+priority: 5
+condition: "p.getTyrepressure()<40"
+actions:
+  - "System.out.println(\" low tyre pressure\");"

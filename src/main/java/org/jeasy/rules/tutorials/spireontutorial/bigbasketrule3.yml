@@ -1,0 +1,6 @@
+name: "bigbasketrule1.1"
+description: "This is regarding the overspeed"
+priority: 4
+condition: "p.getSpeed()>12"
+actions:
+  - "System.out.println(\" dont overspeed\");"
